@@ -1,0 +1,38 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 250px;
+}
+.details{
+    display: flex;
+    margin: 20px;
+    border-right: 1px solid darkgray;
+    
+}
+.explore{
+    width: 60%;
+}
+.info{
+    margin-left: 50px;
+    /* padding: 20px; */
+}
+button{
+    height: 30px;
+    width: 120px;
+    color: white;
+    background-color: #282c34;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    
+    background-color: lightgray;
+    color: #282c34;
+}
+.container{
+    display: flex;
+}
+h2{
+    margin-left: 20px;
+}
